@@ -354,10 +354,6 @@
   top: 18%;
 }
 
-.slide img {
-  width: 500px;
-  height: 500px;
-}
 
 
 
@@ -922,7 +918,7 @@
 }
 
 .s4-bg{
-  background-image: url(./img/stage.jpg);
+  background-image: url(./img/wed7.jpg);
   background-position: center;
   background-attachment: fixed;
   background-size: cover;
